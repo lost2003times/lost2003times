@@ -6,7 +6,6 @@ I'm a computer science graduate studying for an MSc in Cyber Security in Dublin.
 
 | Project | What it is |
 | --- | --- |
-| [manatee-bank-secured](https://github.com/lost2003times/manatee-bank-secured) | A deliberately vulnerable PHP banking app, hardened. Fixes SQL injection, XSS, local file inclusion, upload-to-RCE, weak password hashing and broken access control. |
 | [cybersecurity-notes](https://github.com/lost2003times/cybersecurity-notes) | My offensive security notebook: Hack The Box and TryHackMe write-ups, exploited lab machines, and TCM Security course notes. |
 | [Solo-Hacking](https://github.com/lost2003times/Solo-Hacking) | A gamified daily study tracker with XP, ranks, and penalties for missed days. Built with React and TypeScript. |
 | [cpp-fundamentals](https://github.com/lost2003times/cpp-fundamentals) | Where I started: my first C++ programs. |
