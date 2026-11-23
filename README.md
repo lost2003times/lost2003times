@@ -1,6 +1,12 @@
 ## Hi, I'm Jayman
 
-I'm a computer science graduate studying for an MSc in Cyber Security in Dublin. I focus on penetration testing and web application security, and I'm growing into cloud security and detection. I learn by breaking things in labs and writing down how I did it.
+I'm a computer engineering graduate studying for an MSc in Cyber Security at National College of Ireland, Dublin. I learn by breaking things in labs and writing down how I did it.
+
+**Right now:**
+- Working through PortSwigger's Web Security Academy towards the **Burp Suite Certified Practitioner (BSCP)**, starting with SQL injection
+- Attacking Active Directory with TCM Security's Practical Ethical Hacking, and owning retired Hack The Box machines
+- Building my Python every day with 100 Days of Python
+- Researching post-quantum cryptography migration for my MSc practicum
 
 ### Projects
 
@@ -18,9 +24,9 @@ I'm a computer science graduate studying for an MSc in Cyber Security in Dublin.
 
 ### Toolkit
 
-**Offensive:** Nmap, Burp Suite, Metasploit, ffuf / gobuster, Nikto, LinPEAS, Hashcat / John, Kali Linux
-**Languages:** Python, C++, PHP, Bash, TypeScript
-**Training:** Hack The Box, TryHackMe, TCM Security (Practical Ethical Hacking, Python for Hackers)
+**Offensive:** Nmap, Burp Suite, Metasploit, ffuf / gobuster, Nikto, LinPEAS, Hashcat / John, Kali Linux  
+**Languages:** Python, C++, PHP, Bash, TypeScript  
+**Training:** PortSwigger Web Security Academy, Hack The Box, TryHackMe, TCM Security (Practical Ethical Hacking, Python for Hackers)
 
 ### Find me
 
