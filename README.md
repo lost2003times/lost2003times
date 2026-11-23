@@ -7,7 +7,13 @@ I'm a computer science graduate studying for an MSc in Cyber Security in Dublin.
 | Project | What it is |
 | --- | --- |
 | [cybersecurity-notes](https://github.com/lost2003times/cybersecurity-notes) | My offensive security notebook: Hack The Box and TryHackMe write-ups, exploited lab machines, and TCM Security course notes. |
+
+### Open projects
+
+| Project | What it is |
+| --- | --- |
 | [Solo-Hacking](https://github.com/lost2003times/Solo-Hacking) | A gamified daily study tracker with XP, ranks, and penalties for missed days. Built with React and TypeScript. |
+| [Ad Astra](https://github.com/lost2003times/ad-astra) | A never-zero habit, sleep and journal tracker for Android. Built with Kotlin and Jetpack Compose. |
 | [cpp-fundamentals](https://github.com/lost2003times/cpp-fundamentals) | Where I started: my first C++ programs. |
 
 ### Toolkit
